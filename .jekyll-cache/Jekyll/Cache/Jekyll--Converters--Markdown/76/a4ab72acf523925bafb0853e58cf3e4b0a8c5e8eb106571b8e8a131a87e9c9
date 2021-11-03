@@ -1,0 +1,44 @@
+I"r<ol>
+  <li>리포지토리를 클론한다.
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git clone https://github.com/floracion/floracion.github.io
+</code></pre></div>    </div>
+  </li>
+  <li>클론한 프로젝트로 이동한다.
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">cd </span>floracion.github.io
+</code></pre></div>    </div>
+  </li>
+  <li>오늘 날짜와 이름으로 브랜치를 만든다.
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git branch 2021-11-04-sangmin 
+</code></pre></div>    </div>
+  </li>
+  <li>브랜치로 이동한다.
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git checkout 2021-11-04-sangmin
+</code></pre></div>    </div>
+  </li>
+  <li><code class="language-plaintext highlighter-rouge">_posts</code> 위치로 이동한다.
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">cd </span>_posts
+</code></pre></div>    </div>
+  </li>
+  <li>글을 작성한다.
+    <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">post</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s">자신이 원하는 제목</span>
+<span class="na">subtitle</span><span class="pi">:</span> <span class="s">자신의 이름</span>
+<span class="na">categories</span><span class="pi">:</span> <span class="s">자신이 생각하는 카테고리</span>
+<span class="na">tags</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">자신이 생각하는 카테고리</span><span class="pi">]</span>
+<span class="nn">---</span>
+   
+~~글~~
+</code></pre></div>    </div>
+  </li>
+  <li>git add 와 commit을 한다.
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git add <span class="nb">.</span> <span class="o">&amp;&amp;</span> git commit <span class="nt">-m</span> <span class="s2">"2021-11-04. 블로그 작성 방법 글 작성"</span>
+</code></pre></div>    </div>
+  </li>
+  <li>git push 한다.
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git push origin 2021-11-04-sangmin
+</code></pre></div>    </div>
+  </li>
+  <li><a href="https://github.com/floracion/floracion.github.io">floracion 리포지토리</a> 로 이동해서 <code class="language-plaintext highlighter-rouge">Pull requests</code> 를 진행한다.</li>
+</ol>
+:ET
