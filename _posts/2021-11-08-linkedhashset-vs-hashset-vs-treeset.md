@@ -2,8 +2,8 @@
 layout: post
 title: LinkedHashSet VS HashSet VS TreeSet
 subtitle: Sangmin Lee
-categories: java, data-structure
-tags: [java, data-structure]
+categories: java
+tags: [java]
 ---
 
 이번 글에서는 `LinkedHashSet` 에 대해 간단히 설명하며, `LinkedHashSet` 과 `HashSet` , `TreeSet` 에 대한 성능 평가를 진행한다. 
