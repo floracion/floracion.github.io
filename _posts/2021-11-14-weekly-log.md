@@ -10,6 +10,12 @@ tags: [WeeklyLog]
 
 ### 김민기
 
+#### 2021.11.16
+
+- Git log, history, tag study
+
+
+
 ### 이국준
 
 #### 2021.11.16
