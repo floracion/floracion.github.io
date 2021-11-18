@@ -36,3 +36,6 @@ tags: [WeeklyLog]
 #### 2021.11.17
 * 배터리 관제 시스템의 프론트 서버에 Store 모듈화 적용
 * 배터리 관제 시스템에 날짜 포멧팅 라이브러리(moment.js)를 적용
+
+#### 2021.11.18
+* Firebase용 Cloud Storage 학습 및 튜토리얼 제작
