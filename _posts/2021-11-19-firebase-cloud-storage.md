@@ -339,5 +339,5 @@ service firebase.storage {
 
 ## Reference
 
-![https://firebase.google.com/docs/storage](https://firebase.google.com/docs/storage)
+[https://firebase.google.com/docs/storage](https://firebase.google.com/docs/storage)
 
