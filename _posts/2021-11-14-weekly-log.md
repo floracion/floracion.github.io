@@ -39,3 +39,6 @@ tags: [WeeklyLog]
 
 #### 2021.11.18
 * Firebase용 Cloud Storage 학습 및 튜토리얼 제작
+
+#### 2021.11.19
+* Firebase에 접근하는 코드를 Vue에서 플러그인화 진행
