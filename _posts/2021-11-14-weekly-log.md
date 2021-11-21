@@ -26,6 +26,7 @@ tags: [WeeklyLog]
 
 #### 2021.11.21
 * Client, Server Protocol 분석
+* about page 작성
 
 ### 이상민
 
