@@ -24,6 +24,9 @@ tags: [WeeklyLog]
 #### 2021.11.19
 * WebStorm을 이용해서 만드는 Ruby 환경
 
+#### 2021.11.21
+* Client, Server Protocol 분석
+
 ### 이상민
 
 #### 2021.11.14 
