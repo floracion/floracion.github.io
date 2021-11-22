@@ -440,4 +440,4 @@ export default {
 
 # Reference
 
-[Cloud Storage for Firebase | Firebase Documentation](https://firebase.google.com/docs/storage)
+[https://firebase.google.com/docs/storage](https://firebase.google.com/docs/storage)
