@@ -17,3 +17,6 @@ tags: [WeeklyLog]
 #### 2021.11.22
 * 배터리 관제 시스템의 프론트 서버에 Firebase 적용
 * Firebase Cloud Storage & Nuxt 튜토리얼 글 작성 및 프로젝트 공유
+
+#### 2021.11.23
+* 배터리 관제 시스템의 로그인 페이지 구현
