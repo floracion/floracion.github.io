@@ -11,6 +11,10 @@ tags: [WeeklyLog]
 ### 김민기
 
 ### 이국준
+#### 2021.12.01
+* Network Layer Protocol 분석
+* Flow Control, Error Control, Congestion Control 분석
+
 
 ### 이상민
 
